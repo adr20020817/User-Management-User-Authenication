@@ -4,7 +4,7 @@
  Languages used are CSS, HTML, JavaScript and PHP.
  Here you will find:
  
- ***LOGIN PAGE***
+ ***LOGIN PAGE*** "/n"
 Here a user login normally using his/her username and password. 
 ![Screenshot from 2024-10-31 10-20-07](https://github.com/user-attachments/assets/f882c612-d13e-44ed-9968-4065918501b1)
 You can see that there are options if a user has forgotten the password. When a user clicks that link, it redirects him to another page where he/she has to enter the email with which he/she has registered.
