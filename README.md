@@ -8,10 +8,15 @@
  ***LOGIN PAGE***
  <br>
 Here a user login normally using his/her username and password. 
+<br>
 ![Screenshot from 2024-10-31 10-20-07](https://github.com/user-attachments/assets/f882c612-d13e-44ed-9968-4065918501b1)
+<br>
 You can see that there are options if a user has forgotten the password. When a user clicks that link, it redirects him to another page where he/she has to enter the email with which he/she has registered.
+<br>
 ![Screenshot from 2024-10-31 10-25-37](https://github.com/user-attachments/assets/5a1c3754-2737-46ac-ae2f-3cd15a0b1a1f)
+<br>
 There is an option that a user can register for the first time. The registration page might look like this
+<br>
 ![Screenshot from 2024-10-31 10-30-18](https://github.com/user-attachments/assets/1196a8ac-1df0-4da9-825b-abd2882d0315)
 <br><br>
 
