@@ -46,7 +46,7 @@ if(isset($_POST['submit'])) {
         $to = $email;
         $subject = "Password Reset Confirmation Code";
         $message = "Your confirmation code is: " . $confirmation_code;
-        $headers = "From: ajndossi@outlook.com";
+        $headers = "From: email";
         // Send email
         
         
@@ -62,8 +62,8 @@ if(isset($_POST['submit'])) {
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';  // Gmail SMTP server
             $mail->SMTPAuth = true;
-            $mail->Username = 'adrianjustine73@gmail.com'; // Your Gmail email
-            $mail->Password = 'uaqnzuasizvppbln';      // Your Gmail password
+            $mail->Username = 'youremail@server.com'; // Your Gmail email
+            $mail->Password = 'your-mail-password';      // Your Gmail password
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
 
