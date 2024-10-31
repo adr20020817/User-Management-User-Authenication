@@ -20,6 +20,7 @@ For this functionality to work a mail server is needed inside the operating syst
 PHPMailer can be obtained via composer.
 Make sure the composer is in your system. Installation steps can be found on this website <a href="https://getcomposer.org/doc/00-intro.md">https://getcomposer.org/doc/00-intro.md</a>
 PHPMailer can be installed using the steps found in the following link <a href="https://github.com/PHPMailer/PHPMailer">PHPMailer</a>
+<be>
 Feel free to try out these web pages.
 
 
