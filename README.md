@@ -13,7 +13,7 @@ You can see that there are options if a user has forgotten the password. When a 
 There is an option that a user can register for the first time. The registration page might look like this
 ![Screenshot from 2024-10-31 10-30-18](https://github.com/user-attachments/assets/1196a8ac-1df0-4da9-825b-abd2882d0315)
 
-***FORGOT PASSWORD PAGE***
+***FORGOT PASSWORD PAGE*** <br>
 There is a field for entering email used when registering the page, then by clicking 'Send Code' it takes a user to the verify code page where the user is sent the verification code via email. The user enters the code and then if the code is correct the user redirects him/her to create a new password.
 
 For this functionality to work a mail server is needed inside the operationg system, or there is an option of using PHPMailer. 
