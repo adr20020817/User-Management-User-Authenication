@@ -1,6 +1,4 @@
-<?php
-include 'outline.php';
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
