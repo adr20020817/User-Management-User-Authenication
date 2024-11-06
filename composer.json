@@ -3,6 +3,6 @@
     "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
     "require": {
         "phpmailer/phpmailer": "^6.9"
-    }
+    },
     "license": "MIT"
 }
